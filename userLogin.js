@@ -1,6 +1,6 @@
 
 const userLogin = () => {
-    console.log("user Login");
+    alert("user Login");
 }
 
 const userSUp = () => console.log("user sign up");
